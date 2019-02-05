@@ -1,0 +1,8 @@
+*.pyc
+*~
+/mdms/mdms/__pycache__
+mdmsenv
+.vscode
+db.sqlite3
+/static
+.DS_Store
